@@ -1,6 +1,6 @@
 <h1 align="center">
 Covid-Tracker 
-<img src="https://img.shields.io/badge/Made_by-spd-yellow" />
+<img src="https://img.shields.io/badge/Made_by-s-yellow" />
 <img src="https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg" />
 <img src="https://img.shields.io/badge/platform-Windows-blue" />
 </h1>
