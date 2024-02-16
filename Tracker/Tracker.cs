@@ -100,9 +100,9 @@ namespace CryptoTracker
             {
                 SelectedCrypto = cryptoComboBox.SelectedItem.ToString();
             }
-            else // if bro is too stupid to use this app.
+            else // if user forgot to choose.
             {
-                MessageBox.Show("請選擇貨幣!");
+                MessageBox.Show("請選擇幣種!");
                 return;
             }
 
