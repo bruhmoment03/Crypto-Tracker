@@ -1,4 +1,4 @@
-namespace CovidTracker
+namespace CryptoTracker
 {
     internal static class Program
     {

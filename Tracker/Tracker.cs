@@ -5,13 +5,13 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Linq;
 using System.Drawing;
-using static CovidTracker.Tracker;
+using static CryptoTracker.Tracker;
 
 // It used to be CovidTracker using covid tw gov API, but I found out that the 
 // object name is Chinese, which is kinda complicated for the school project, so I decided to switch
-// to another topic, but it's still based on the same logic.
+// to another project, but it's still based on the same logic.
 
-namespace CovidTracker
+namespace CryptoTracker
 {
     public partial class Tracker : Form
     {
@@ -84,7 +84,7 @@ namespace CovidTracker
             // Example, not necessary but I'll add it to make it look better.
             DataGrid.Rows.Add(
             "範例貨幣",
-            "nigga",
+            "sample",
             "69420",
             "100000",
             "6942042069",

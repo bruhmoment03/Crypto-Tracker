@@ -1,4 +1,4 @@
-﻿namespace CovidTracker
+﻿namespace CryptoTracker
 {
     partial class Tracker
     {
