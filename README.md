@@ -15,4 +15,4 @@ After that, you can simplify select the crypto you want to search and then click
 `(Better explanations are commented in the code.)`
 
 ## Media
-![image](https://cdn.discordapp.com/attachments/1104398853375012967/1159789638261682257/devenv_SBiBfx5nbg.png?ex=65324d45&is=651fd845&hm=0a5b87b99364bf3662f932a39bc8816b28f1e283362fa0e7476205d8e8a30125&)
+![image](https://i.imgur.com/7RsgCx3.png)
